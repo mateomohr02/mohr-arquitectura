@@ -1,0 +1,26 @@
+.logo{
+    height: 11vh;
+    margin-left: 2rem;
+}
+
+.container{
+    display:  flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 13vh;
+    background-color: #000;
+}
+
+.links{
+    text-decoration: none;
+    color: #FFF;
+    font-size: 1.2rem;
+    margin: 1rem;
+    transition: color 0.5s;
+}
+
+.linkText:hover{
+    color: #D8BE00;
+    
+}

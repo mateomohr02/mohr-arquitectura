@@ -1,0 +1,46 @@
+.background {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* height: 87vh; */
+    width: 98.7vw;
+    background-repeat: no-repeat;
+    background-image: url('../assets/backgorund.jpg');
+  }
+
+.generalContainer{
+    background-color: rgba(0, 0, 0, 0.604);
+    padding: 1rem;
+    width: 100vw;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.upperContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.linksContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.iconText{
+    display: flex;
+    align-items: center;
+    color: black;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.icons{
+    margin: 3px;
+    color: black;
+    font-size: 1.5rem;
+}
+
+
+
+  
